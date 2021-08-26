@@ -1,0 +1,12 @@
+
+img {
+    height: 300px;
+    border-radius: 500px;
+    }
+.border {
+  padding: 200px;
+}
+
+.container1 {
+    border: 10px solid red;
+}
